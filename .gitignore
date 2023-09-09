@@ -1,0 +1,12 @@
+.svn/
+target/
+.settings/
+.classpath
+.project
+*.iml
+*.class
+*.log
+.idea
+/build/
+/dist/
+/main.spec
